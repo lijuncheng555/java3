@@ -74,7 +74,7 @@
 # 五、实验结果：
 ![](https://github.com/lijuncheng555/shiyan3/blob/main/80ff71dfb93e5eab0d6e0ab0ef67227.png)
 # 六.流程图：
-！[](https://github.com/lijuncheng555/shiyan3/blob/main/19ecbe15d7724cf663ddb2dbef3982f.png)
+![](https://github.com/lijuncheng555/shiyan3/blob/main/19ecbe15d7724cf663ddb2dbef3982f.png)
 # 七、实验感想：
 
 1.此次实验我学会了创建类和对象，基本掌握类与对象的定义和使用，基本掌握了Java的编程规则、知识要点和一些编程的注意事项，例如一些编程风格。
