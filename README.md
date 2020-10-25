@@ -73,7 +73,8 @@
 ```
 # 五、实验结果：
 ![](https://github.com/lijuncheng555/shiyan3/blob/main/80ff71dfb93e5eab0d6e0ab0ef67227.png)
-
+# 六.流程图：
+![](https://github.com/lijuncheng555/shiyan3/blob/main/19ecbe15d7724cf663ddb2dbef3982f.png)
 # 七、实验感想：
 
 1.此次实验我会了如何利用super（），switch（）。
